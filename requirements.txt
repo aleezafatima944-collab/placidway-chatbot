@@ -1,0 +1,14 @@
+requests
+beautifulsoup4
+trafilatura
+langchain
+langchain-core
+langchain-chroma
+langchain-groq
+langchain-huggingface
+langchain-community
+langchain-text-splitters
+chromadb
+sentence-transformers
+python-dotenv
+streamlit

@@ -1,0 +1,21 @@
+[project]
+name = "placidway-chatbot"
+version = "0.1.0"
+description = "Website knowledge chatbot for PlacidWay (RAG, grounded answers with sources)"
+requires-python = ">=3.11"
+dependencies = [
+    "requests",
+    "beautifulsoup4",
+    "trafilatura",
+    "langchain",
+    "langchain-core",
+    "langchain-chroma",
+    "langchain-groq",
+    "langchain-huggingface",
+    "langchain-community",
+    "langchain-text-splitters",
+    "chromadb",
+    "sentence-transformers",
+    "python-dotenv",
+    "streamlit",
+]
