@@ -2,7 +2,7 @@
 
 A chatbot that answers visitor questions using only 7 shared PlacidWay pages. Every answer cites its source URL. If the answer is not in the pages, the bot says so.
 
-**Live demo:** (add the URL after deployment)
+**Live demo:** (https://placidway-chatbot-aleeza.streamlit.app)
 
 ## Features
 - Answers only from the 7 given pages (no crawling beyond them)
