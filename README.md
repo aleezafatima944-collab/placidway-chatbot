@@ -66,4 +66,4 @@ tools/ test and debug scripts
 - Free Groq limit is about 8,000 tokens per minute, so many fast questions can get a "busy" message.
 - Price data can be old. Page 7 shows modified dates, and the bot repeats them.
 - Anyone can press Refresh. Lead and log files may be lost when a free host restarts.
-- 
+
